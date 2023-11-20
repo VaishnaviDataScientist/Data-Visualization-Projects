@@ -7,12 +7,25 @@ Utilizing the pizza dataset sourced from [Kaggle](https://www.kaggle.com/dataset
 ## KPI Requirement:
 
 Let's analyze key performance indicators for pizza sales data to gain insights into business performance. 
-
-### Added Measures:
-
+Added Measures:
 * Total Revenue – The sum of the total price of all pizza orders
 * Average Order Value – The average amount spent per order, calculated by dividing the total revenue by the total number of orders
 * Total Pizzas Sold – The sum of the quantities of all pizzas sold
 * Total Orders – The total number of orders placed.
 * Average Pizzas Per Order - The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
+## 📝Steps Performed:
+1. **Database Creation:**
+   - A new database was established by transferring data from an Excel to SQL. This process enabled seamless data integration for subsequent analysis.
+
+2. **Data Integration with Power BI:**
+   - The SQL database was linked to the Power BI dashboard, allowing for the retrieval of relevant data sets to be used in the subsequent analysis.
+
+3. **Data Cleaning in Power BI:**
+   - In Power BI Desktop, a comprehensive data cleaning process was undertaken, focusing on attributes such as "pizza_size" in the Power Query tab. This step aimed to enhance data accuracy and consistency.
+
+4. **Key Performance Indicators (KPIs):**
+   - Measures were created using Data Analysis Expressions (DAX) functions to establish key performance indicators (KPIs). This provided a foundation for evaluating and monitoring performance metrics.
+
+5. **Dashboard Creation:**
+   - Two pages were crafted within the Power BI dashboard. These pages feature visually informative charts, with highlighting the best-selling pizzas, showcasing top performers, and the least favored pizzas, offering insights for potential improvements and inventory management.
