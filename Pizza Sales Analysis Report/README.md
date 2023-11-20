@@ -37,7 +37,8 @@ Added Measures:
 <img width="561" alt="S1-2" src="https://github.com/VaishnaviDataScientist/Data-Visualization-Projects/assets/146096000/51eee643-b02b-4f97-8ba4-c22e304a7401">
 
 * Best and worst sellers page:
-  <img width="560" alt="S2" src="https://github.com/VaishnaviDataScientist/Data-Visualization-Projects/assets/146096000/08f4b7ca-09f2-4743-a7d6-b45df5a7de9d">
+
+<img width="560" alt="S2" src="https://github.com/VaishnaviDataScientist/Data-Visualization-Projects/assets/146096000/08f4b7ca-09f2-4743-a7d6-b45df5a7de9d">
 
 
 
