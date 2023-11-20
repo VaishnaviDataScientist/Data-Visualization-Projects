@@ -29,6 +29,7 @@ Added Measures:
 
 5. **Dashboard Creation:**
    - Two pages were crafted within the Power BI dashboard. These pages feature visually informative charts, with highlighting the best-selling pizzas, showcasing top performers, and the least favored pizzas, offering insights for potential improvements and inventory management.
+   - Slicers , filters and more visualisation features were used to make it interactive and dynamic.  
 
 
 ## Dashboards:
